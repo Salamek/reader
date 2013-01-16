@@ -1,0 +1,26 @@
+Dependencies:
+=============
+Python2
+PySerial
+PyGTK
+ConfigParser
+threading
+json
+
+Linux Depedencies:
+==================
+python-virtkey
+
+Windows Depedencies:
+====================
+python-sendkeys
+
+
+Run under windows:
+==================
+1)Run run_windows.bat
+
+Run under linux:
+================
+1)Check if run_linux.sh has executable right
+2)Run run_linux.sh

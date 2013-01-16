@@ -1,0 +1,9 @@
+- Prepsan system ukladani/nacitani konfigurace
+- Ukladani chyb do souboru 
+- Error/warning/info pop up window
+- uklid kodu
+- spojeni LCD mesagess do jedne funkce
+- oprava bugu zamrznuteho okna konfigurace pod win
+- hromada mencich vylepseni
+- prepsani zpracovani odpovedi v knihovne
+- kontrola zda li je zarizeni pripojeno na portu

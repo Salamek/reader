@@ -1,0 +1,43 @@
+[cs]
+Read = Číst
+Write = Zapsat
+Check card = Zkontrolovat kartu
+Enable Polling = Povolit dotazování
+Enable Backlight = Povolit podsvícení
+Disconnected = Odpojeno
+Connected = Připojeno
+Backlight Enabled = Podsvícení zapnuto
+Backlight Disabled = Podsvícení vypnuto
+Starting read data = Začínám číst data
+Authenticate failed = Přihlášení selhalo
+Starting write data = Začínám zapisovat data
+Data string is too long = Text je příliš dlouhý
+No card detected =  Žádná karta detekována
+Configuration = Nastavení
+Connecion = Připojení
+No ports found = Nebyly nalezeny žádné porty
+Port = Port
+Baudrate = Rychlost
+Display = Display
+Welcome message = Uvítací zpráva
+Ready message = Zpráva připraveno
+Reading message =  Zpráva čtu
+Done message = Zpráva hotovo
+Error message = Chybová zpráva
+Output = Výstup
+Keyboard output string = Výstupní text klávesnice
+Write data = Zapsat data
+Data = Data
+Cleaning device = Čistím zařízení
+Saving configuration = Ukládám konfiguraci
+Destroy signal occurred = Signál zničení nastal
+Welcome = Vítej
+Ready = Připraven
+Reading = Čtu
+Done = Hotovo
+Error = Chyba
+Language = Jazyk
+
+[sk]
+
+[pl]

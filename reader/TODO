@@ -1,0 +1,28 @@
+acr122l:
+========
+++ pridat lepsi zpracovani prijatych dat, univerzalni
+++ zapracovat vyjimky
+++ pridat printy s informacemi o stavu provadene funkce do metod
+++ pridat error table
+++ pridat halt karty
+++ pridat 3DES
+++ kontrola sumu pri prijmu dat
+++ kontrola vstupnich parametru pro funkce
+++ ovladani buzzeru je posrany
+
+acr122l_new:
+============
+++ zkontrolovat a rozjet vsechny funkce
+
+
+
+reader:
+=======
+++ Otestovat na MAC OS X a pridat virtualni klavesnici pro MAC OS X
+++ pridat key a block do GUI configu pod heslem + volbu rychlosti
+    ++ pridat kontrolu zda li je ve input widgetu INT pri implementaci  key a bloku
+-- pridat smazani karty
+-- pridat 'restartovat ctecku'
+
+
+
