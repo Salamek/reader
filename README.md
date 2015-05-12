@@ -1,3 +1,6 @@
+## 2015-05-12 There is also unfinished C++ library https://github.com/Salamek/Acr122
+
+
 reader
 ======
 
